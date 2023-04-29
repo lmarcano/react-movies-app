@@ -1,3 +1,3 @@
 # MoviesApp
 
-Proyecto en react para carga de peliculas
+Proyecto en react para carga de peliiculas
